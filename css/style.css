@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.box{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    height: 60px;
+}
+.nav-left{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding-left: 20px;
+}
+.nav-right{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding-right: 20px;
+}
